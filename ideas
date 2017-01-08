@@ -1,0 +1,7 @@
+tf-df based spelling correction or suggestions for names - http://wwwconference.org/proceedings/www2010/www/p1135.pdf
+
+rule based:
+Detect new deprecation warnings (how to do in Py?)
+Detect if new deprecation warning is of a new type or entirely new
+Check version upgrades & try and find release notes and attach as a comment if not alread attached?
+
